@@ -2,4 +2,4 @@
 
 Description:
 
-This repository contains a series of scripts to solve some computational problem (eg: decoding/translating)
+This repository contains a series of miscellaneous scripts (including automation, animation and webscraping)
